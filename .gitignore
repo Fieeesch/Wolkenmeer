@@ -1,0 +1,126 @@
+# =========================
+# Unity
+# =========================
+
+# Generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Asset Store Tools
+[Aa]ssets/AssetStoreTools*
+
+# Unity generated metadata cache
+sysinfo.txt
+
+# Crash reports
+crashlytics-build.properties
+
+
+# =========================
+# IDEs / Editors
+# =========================
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+
+# =========================
+# OS files
+# =========================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
+
+
+# =========================
+# Unity build artifacts
+# =========================
+
+# Debug symbols
+*.pdb
+*.mdb
+*.mdb.meta
+
+# Unity crash/debug output
+[Bb]urst[Dd]ebug[Ii]nformation*/
+*.stacktrace
+
+
+# =========================
+# Packages / caches
+# =========================
+
+# NuGet
+.nuget/
+
+# Gradle
+.gradle/
+
+# Android build files
+*.apk
+*.aab
+
+# iOS/macOS generated artifacts
+*.xcworkspace
+*.xcuserstate
+
+
+# =========================
+# Misc
+# =========================
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Logs
+*.log
+
+
+# =========================
+# Perforce
+# =========================
+
+.p4config
+.p4ignore

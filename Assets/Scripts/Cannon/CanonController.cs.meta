@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a2b16eaabeafd6d4e8bd6fe4334ad072
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - storage: {instanceID: 0}
+  - loadedProjectile: {instanceID: 0}
+  - canonModel: {instanceID: 0}
+  - canonPipe: {instanceID: 0}
+  - lineRenderer: {instanceID: 0}
+  - explosionAnimation: {fileID: 3352391191284423565, guid: 9571e0e1b1e65834cbba759493c171d3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

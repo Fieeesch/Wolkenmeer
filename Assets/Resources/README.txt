@@ -1,0 +1,1 @@
+The contents of this folder can be used by Resources.Load() function.

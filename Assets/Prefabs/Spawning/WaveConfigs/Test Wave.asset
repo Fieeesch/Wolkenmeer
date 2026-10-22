@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2392fc0f44ef45b7a853a2b78eaf7a37, type: 3}
+  m_Name: Test Wave
+  m_EditorClassIdentifier: 
+  enabledEnemies:
+  - {fileID: 359620980543672587, guid: 61ac73f73cac47445ac362a1094a0261, type: 3}
+  differentEnemiesPerWave: 1
+  waveCount: 1
+  waveBaseWeight: 1
+  weightScaleFactorPerWave: 1
+  waveDuration: 1
+  prepareTime: 30
+  timeBetweenWaves: 15

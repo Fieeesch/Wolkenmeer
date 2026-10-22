@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2392fc0f44ef45b7a853a2b78eaf7a37, type: 3}
+  m_Name: Hard Wave Config
+  m_EditorClassIdentifier: 
+  enabledEnemies:
+  - {fileID: 273129141847393010, guid: 4f71715943dba91429461e048adfcf1d, type: 3}
+  - {fileID: 7048584291695661852, guid: 84573d164584ea84c8c195c0c7fc532f, type: 3}
+  - {fileID: 2132683738405168488, guid: c869eaf3de298a6498d72fbf25d5a1cc, type: 3}
+  - {fileID: 3040733318496261260, guid: 53245b2dad73d524cbdda8e1301db766, type: 3}
+  differentEnemiesPerWave: 3
+  waveCount: 4
+  waveBaseWeight: 45
+  weightScaleFactorPerWave: 1.2
+  waveDuration: 60
+  prepareTime: 30
+  timeBetweenWaves: 25
