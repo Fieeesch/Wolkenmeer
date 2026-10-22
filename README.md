@@ -1,6 +1,6 @@
 # Wolkenmeer
 
-![Wolkenmeer](./docs/wolkenmeer-title.jpg)
+![Wolkenmeer](./docs/wolkenmeer-title.png)
 
 **Wolkenmeer** ist ein lokales Couch-Coop-Spiel für bis zu vier Spieler, das im Rahmen eines Hochschulprojekts mit Unity entwickelt wurde.
 
